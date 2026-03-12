@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 Analysis and Systems Development Student  
-💻 Backend developer focused on **Python, APIs and AI systems**  
+💻 Fullstack developer focused on **Python, APIs and AI systems**  
 ⚙️ Building **automation tools, REST APIs and Machine Learning projects**  
 📚 Currently studying **Software Engineering and Cloud**
 

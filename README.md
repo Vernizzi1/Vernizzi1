@@ -1,4 +1,17 @@
-## Hi there 👋
+# Henrique Vernizzi
+
+Fullstack Developer | Python | AI
+
+🎓 Analysis and Systems Development Student
+
+💻 Tech Stack
+Python • FastAPI • Django • SQL • Machine Learning
+
+📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vernizzi1&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vernizzi1&layout=compact)
 
 <!--
 **Vernizzi1/Vernizzi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

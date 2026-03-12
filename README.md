@@ -40,9 +40,6 @@ Web application built with **Django** allowing users to store daily notes.
 📌 **Automation Script with Python**  
 Automation system using **PyAutoGUI** for web tasks.
 
----
-
-⭐ From [Vernizzi1](https://github.com/Vernizzi1)
 <!--
 **Vernizzi1/Vernizzi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

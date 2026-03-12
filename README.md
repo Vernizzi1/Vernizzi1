@@ -26,18 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vernizzi1&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vernizzi1&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Featured Projects
 
 📌 **Task Manager API**  
@@ -51,16 +39,6 @@ Web application built with **Django** allowing users to store daily notes.
 
 📌 **Automation Script with Python**  
 Automation system using **PyAutoGUI** for web tasks.
-
----
-
-## 🌎 Connect with me
-
-LinkedIn:  
-www.linkedin.com/in/henrique-vernizzi
-
-Email:  
-henriquevernizzi@gmail.com
 
 ---
 

@@ -1,16 +1,70 @@
-# Henrique Vernizzi
+<h1 align="center">Hi 👋, I'm Henrique Vernizzi</h1>
 
-Fullstack Developer | Python | AI
+<h3 align="center">Fullstack Developer | Python | AI | APIs</h3>
 
-🎓 Analysis and Systems Development Student
+---
 
-💻 Tech Stack
-Python • FastAPI • Django • SQL • Machine Learning
+## 🚀 About Me
 
-📊 GitHub Stats
+🎓 Analysis and Systems Development Student  
+💻 Backend developer focused on **Python, APIs and AI systems**  
+⚙️ Building **automation tools, REST APIs and Machine Learning projects**  
+📚 Currently studying **Software Engineering and Cloud**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vernizzi1&layout=compact)
+---
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vernizzi1&show_icons=true&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vernizzi1&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+📌 **Task Manager API**  
+REST API built with **FastAPI** for task management.
+
+📌 **Credit Score Machine Learning**  
+Machine learning model using **Pandas and Scikit-Learn**.
+
+📌 **Django Diary App**  
+Web application built with **Django** allowing users to store daily notes.
+
+📌 **Automation Script with Python**  
+Automation system using **PyAutoGUI** for web tasks.
+
+---
+
+## 🌎 Connect with me
+
+LinkedIn:  
+www.linkedin.com/in/henrique-vernizzi
+
+Email:  
+henriquevernizzi@gmail.com
+
+---
+
+⭐ From [Vernizzi1](https://github.com/Vernizzi1)
 <!--
 **Vernizzi1/Vernizzi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
